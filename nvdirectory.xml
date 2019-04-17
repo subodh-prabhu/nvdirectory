@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--
 Original Credit : https://github.com/TheCodeArtist/nvsearch
-Search name  : nvdirectory
+Search name  : NVPhoneDirectory
 Search query : https://apps.nvinfo.nvidia.com/Phonedirectory/?searchString=
 -->
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-    <ShortName>nvdirectory</ShortName>
+    <ShortName>NVPhoneDirectory</ShortName>
     <Description>NVPhoneDirectory</Description>
 	<Image height="16" width="16" type="image/x-icon">https://raw.githubusercontent.com/subodh-prabhu/nvdirectory/master/icons/nvidia-16x16.ico</Image>
 	<Image height="64" width="64" type="image/png">https://raw.githubusercontent.com/subodh-prabhu/nvdirectory/master/icons/nvidia-64x64.png</Image>
